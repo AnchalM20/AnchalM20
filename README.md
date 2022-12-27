@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/11348/165750845-5df00a31-f3f5-436f-989a-be7faecddfb6.jpg)]
+![MasterHead](https://user-images.githubusercontent.com/11348/165750845-5df00a31-f3f5-436f-989a-be7faecddfb6.jpg)
 <h1 align="center">Hi 👋, I'm Anchal Maurya</h1>
 <h3 align="center">Passionate about Coding and Problem solving</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >

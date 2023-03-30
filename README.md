@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalm20&label=Profile%20views&color=0e75b6&style=flat" alt="anchalm20" /> </p>
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **MERN Technologies**
 
 - 📫 How to reach me **anchallsm2000@gmail.com**
 
